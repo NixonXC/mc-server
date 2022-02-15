@@ -1,4 +1,4 @@
-# mc-server
+# This Project is No Longer maintained!
 Create a minecraft server with replit hacker plan and non hacker plan! (1.8.9)
 
 So the first thing is you need hacker plan if you want better peformance
